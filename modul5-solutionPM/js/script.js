@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RitaPn 
-nopibal
-/
-coursera-html-css-js
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-coursera-html-css-js/module5-solution/js/script.js /
-
-egor.aporia my module5-solution
-Latest commit 1c667d2 on Feb 27
- History
- 0 contributors
-347 lines (288 sloc)  11.2 KB
-   
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...
@@ -372,16 +344,4 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
